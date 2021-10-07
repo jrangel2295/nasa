@@ -1,0 +1,53 @@
+.Info {
+    
+    margin: 50px 20%;
+    display: inline-flex;
+    font-family: Verdana;
+    font-size: 18px;
+    font-weight: bold;
+    background: tomato;
+    grid-area: auto;
+ 
+    
+    
+ 
+     
+   }
+ 
+ 
+ 
+   article:hover {
+ 
+     border-color: #54629e;
+     border-style: ridge;
+     background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg);
+     background-position: bottom right;
+     background-repeat: no-repeat;
+     
+     
+     
+   }
+ 
+   body {
+     
+     background-image: url(https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+     grid-area: auto;
+     
+   }
+ 
+   .nasavid {
+ 
+     content: url("https://mars.nasa.gov/system/resources/detail_files/7968_gamee-mars-rover-app-shareable-full2.gif");
+     margin: auto;
+     grid-area: auto;
+ 
+   }
+ 
+ 
+ 
+ 
+ 
+ 
